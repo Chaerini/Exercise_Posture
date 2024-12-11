@@ -1,0 +1,3 @@
+0 stand
+1 sqart
+2 bent
